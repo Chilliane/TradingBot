@@ -1,2 +1,2 @@
 # TradingBot
-Python with Binance API integration
+First project coded in Python
